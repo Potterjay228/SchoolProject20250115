@@ -14,7 +14,7 @@
 
 <hr>
 
-[yahoo](http://tw.yahoo.com)
+[yahoo](http://tw.yahoo.com)<br>
 [Google](http://www.google.com)
 
 [文件解說](doc/index.html)
